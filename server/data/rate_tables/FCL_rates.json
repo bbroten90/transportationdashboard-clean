@@ -1,0 +1,23 @@
+{
+  "carrier": "FCL",
+  "rates": [
+    {
+      "weight_range": [0, 1500],
+      "rate_per_100kg": 48.00,
+      "minimum_charge": 160.00
+    },
+    {
+      "weight_range": [1501, 6000],
+      "rate_per_100kg": 42.00,
+      "minimum_charge": 210.00
+    },
+    {
+      "weight_range": [6001, 10000],
+      "rate_per_100kg": 38.00,
+      "minimum_charge": 260.00
+    }
+  ],
+  "fuel_surcharge": 0.14,
+  "loading_fee": 12.50,
+  "unloading_fee": 12.50
+}

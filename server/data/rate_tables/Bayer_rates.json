@@ -1,0 +1,23 @@
+{
+  "carrier": "Bayer",
+  "rates": [
+    {
+      "weight_range": [0, 3000],
+      "rate_per_100kg": 60.00,
+      "minimum_charge": 200.00
+    },
+    {
+      "weight_range": [3001, 10000],
+      "rate_per_100kg": 55.00,
+      "minimum_charge": 250.00
+    },
+    {
+      "weight_range": [10001, 20000],
+      "rate_per_100kg": 50.00,
+      "minimum_charge": 300.00
+    }
+  ],
+  "fuel_surcharge": 0.18,
+  "pharmaceutical_handling_fee": 30.00,
+  "temperature_monitoring_fee": 20.00
+}

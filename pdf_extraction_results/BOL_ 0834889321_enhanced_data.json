@@ -1,0 +1,26 @@
+{
+  "id": "opposite",
+  "customer_id": "26",
+  "customer_name": "PM\nPage\n1 of 2",
+  "ship_from": "al Bill of  Lading or received subject to the Rules for",
+  "ship_to": "Canada",
+  "pickup_date": null,
+  "weight_kg": 440,
+  "weight_lbs": 42858,
+  "special_requirements": {},
+  "notes": null,
+  "manufacturer": "Bayer",
+  "ship_from_location": "CWS Regina",
+  "ship_to_city": "REGINA, SK",
+  "ship_to_company": "ACROPOLIS WAREHOUSING INC",
+  "purchase_order": "5105658",
+  "gross_weight_kg": 19440,
+  "gross_weight_lbs": 42858,
+  "net_quantity": "",
+  "confidence_scores": {
+    "ship_from_location": 0.0
+  },
+  "needs_review": {
+    "ship_from_location": true
+  }
+}

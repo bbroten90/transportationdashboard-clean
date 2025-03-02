@@ -1,0 +1,72 @@
+Print Date:
+14-JUN-2018 15:14
+Page 1 of 1
+Pick Slip
+Warehouse: AB3: CWS LOGISTICS (Edm)
+6044 - 20th Street NW
+Edmonton, AB T6P 1Z1, CA
+Delivery: 818806
+Move Order: 3322566
+Pick Slip Number: 1686894
+Freight Terms: FOB Destination, Freight Prepaid
+Internal Sales Order No
+Trip Carrier:
+Sales Order / PO
+Ship To
+Freight BillTo
+Sales Order
+Number:
+18089
+Creation Date:
+14-JUN-2018 15:12:47
+Created By:
+Mylene Testa
+Customer PO: 2002800 OP
+Winfield United Canada
+Ship To:
+Acropolis Warehousing Inc.
+2039 Airport Perimeter Road
+Edmonton Intl Airport
+AWSA 325515
+Edmonton, AB T9E 0V6, CA
+Contact Phone: 780-440-4406
+NUFARM AGRICULTURE INC. c/o
+Nulogx Inc.
+2233 Argentia Rd, Suite 202
+Mississauga,  L5N 2X7
+  
+Sub Inventory: STOCK
+Line
+No.
+Item
+Item Description
+ Quantity
+Requested
+ Qty
+ UOM
+Line Gross 
+Weight
+Quantity to be picked
+Scheduled   
+Ship Date
+Promise   
+Date
+Picker's
+Initials
+Lot Number
+Quantity
+ 1
+ 30036211
+MCPA Ester 600 2x10L Case
+Compound, weed killing, liquid, not DOT 
+regulated
+180    Cse
+4245.12
+14-JUN-2018
+14-JUN-2018
+Total Gross Weight:
+4245.12 KG
+Special Instruction: WAREHOUSE TO CALL BEFORE SHIPPING
+CARRIER MUST CALL MIN 24 HRS PRIOR FOR DELIVERY APPOINTMENT
+ALL CARRIERS MUST REFERENCE THE PO NUMBER ON ALL BOL'S WHEN BOOKING AN APPOINTMENT WITH CWS WAREHOUSES 
+End of Report

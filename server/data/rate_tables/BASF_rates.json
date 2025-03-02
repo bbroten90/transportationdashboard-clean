@@ -1,0 +1,23 @@
+{
+  "carrier": "BASF",
+  "rates": [
+    {
+      "weight_range": [0, 2500],
+      "rate_per_100kg": 55.00,
+      "minimum_charge": 180.00
+    },
+    {
+      "weight_range": [2501, 8000],
+      "rate_per_100kg": 50.00,
+      "minimum_charge": 230.00
+    },
+    {
+      "weight_range": [8001, 15000],
+      "rate_per_100kg": 45.00,
+      "minimum_charge": 280.00
+    }
+  ],
+  "fuel_surcharge": 0.16,
+  "hazardous_material_fee": 25.00,
+  "special_handling_fee": 18.00
+}

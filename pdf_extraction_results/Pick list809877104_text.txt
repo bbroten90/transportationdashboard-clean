@@ -1,0 +1,74 @@
+Inco Terms / Incoterms
+FOB- Destination
+Picked By / Sélectionné par
+Approval / Approuvé
+Shipping Charge / Frais de transport
+Total Weight / Poids total
+No. of Pieces / Nº de morceaux
+Actual Ship Date / Date réelle d'expédition
+Carrier Instructions / Instructions au transporteur
+PLEASE DELIVER ASAP
+Plant Instructions / Instructions d'expédition
+PICKLIST FOR DELIVERY / LISTE
+DE SÉLECTION POUR LIVRAISON
+Item/
+Material No./ 
+Material Description/
+Quantity/
+UOM/ 
+Pick Qty/
+Batch No./
+Article Nº de
+Description de la marchandise 
+Quantité
+Unité
+Quantité
+Nº de lot
+ 
+Marchandise
+Sélectionnée
+Shipment Number/
+Nº de connaissement
+Shipment Date / Date d'expédition
+10 MAR 2025
+Customer Purchase Order /
+Bon de commande du client
+9891695
+Delivery Date / Date de livraison
+13 MAR 2025
+Pallets Used / Palettes utilisées
+Page / Page
+1 of 1
+Delivery Number / Nº de livraison
+0809877104
+Order Number /
+Nº de la commande
+8558415
+Stop Number / D'arrêts
+Delivery type / Type de livraison
+  Outbound Delivery
+Scheduled Carrier / Transporteur
+Ship To # / Destinataire nº  3994051
+C/o DAWSON COOP UNION ASSOC
+DAWSON COOP UNION ASSOC
+PO Box 129
+ROLLA BC  V0C 2G0
+Telephone / Numéro de téléphone : 250-759-4770
+Fax# / Numéro de télécopieur: 
+Sold To # / Destinataire nº 9123636 FEDERATED CO-OPERATIVES
+Ship Plant Address / Adresse d'expédition
+Bayer CropScience Inc.
+c/o CWS Logistics
+1210 Pettigrew Ave
+REGINA SK  S4N 6P4
+CANADA
+Telephone / Numéro de téléphone  : --
+Plant Code / Code d'expédition  : LZ53
+ 1 11501906
+RUP TRANSORB HC, CA, 1X800L RFD SL
+      18.00 SHL
+________
+                    18 BULK CONT.
+No. of Pkgs:          18 
+Gross Weight / Poids Brut
+     19,584 KG

@@ -1,0 +1,52 @@
+# Web framework
+fastapi>=0.109.0
+uvicorn>=0.27.0
+pydantic>=2.5.0
+starlette>=0.36.0
+
+# Database
+sqlalchemy>=2.0.25
+alembic>=1.13.0
+psycopg2-binary>=2.9.9
+
+# HTTP client
+httpx>=0.26.0
+aiohttp>=3.9.0
+requests>=2.31.0  # For synchronous requests
+
+# Data processing
+numpy>=1.26.0
+pandas>=2.2.0
+openpyxl>=3.1.2  # For Excel file support
+ortools>=9.8.3296  # For optimization
+
+# Geospatial and mapping
+geopy>=2.4.1  # For geocoding and distance calculations
+polyline>=2.0.0  # For encoding/decoding Google Maps polylines
+
+# PDF processing
+pdfminer.six>=20231228
+pymupdf>=1.25.0  # PyMuPDF for better PDF extraction
+pytesseract>=0.3.10
+watchdog>=3.0.0
+Pillow>=10.0.0
+
+# Google Cloud
+google-cloud-documentai>=2.24.0  # For Document AI
+google-cloud-storage>=2.13.0  # For Cloud Storage
+google-auth>=2.27.0  # For authentication
+PyJWT>=2.8.0  # For JWT token creation
+
+# Environment and configuration
+python-dotenv>=1.0.0
+pyyaml>=6.0.1
+
+# Testing
+pytest>=7.4.0
+pytest-asyncio>=0.23.0
+
+# Utilities
+python-multipart>=0.0.6
+email-validator>=2.1.0
+cachetools>=5.3.2  # For caching API responses
+tenacity>=8.2.3  # For retrying failed API calls

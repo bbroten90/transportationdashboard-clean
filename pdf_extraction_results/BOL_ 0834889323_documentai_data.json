@@ -1,0 +1,26 @@
+{
+  "id": "",
+  "customer_id": "",
+  "customer_name": "",
+  "ship_from": "",
+  "ship_to": "",
+  "pickup_date": null,
+  "weight_kg": 0,
+  "weight_lbs": 0,
+  "special_requirements": {},
+  "notes": "",
+  "manufacturer": "Bayer",
+  "ship_from_location": "BOL/CMR Number/No de connaissement/CMR\n834889323\nPage\n1 of 2",
+  "ship_to_city": "",
+  "ship_to_company": "",
+  "purchase_order": "",
+  "gross_weight_kg": 0,
+  "gross_weight_lbs": 0,
+  "net_quantity": "",
+  "confidence_scores": {
+    "ship_from_location": 0.0
+  },
+  "needs_review": {
+    "ship_from_location": true
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "",
+  "customer_id": "",
+  "customer_name": "",
+  "ship_from": "Weight",
+  "ship_to": "Point",
+  "pickup_date": null,
+  "weight_kg": 62.0,
+  "special_requirements": {},
+  "notes": null
+}

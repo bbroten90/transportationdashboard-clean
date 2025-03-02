@@ -1,0 +1,17 @@
+2025-03-01 14:18:57,123 - PDFProcessor - INFO - Starting PDF processor
+2025-03-01 14:18:57,124 - PDFProcessor - INFO - Found 1 PDF files to process
+2025-03-01 14:18:57,124 - PDFProcessor - INFO - Extracting data from new_order.pdf
+2025-03-01 14:18:57,139 - PDFProcessor - ERROR - Error processing new_order.pdf: Unsupported filter: [/'FlateDecode']
+2025-03-01 14:18:57,139 - PDFProcessor - WARNING - Moved new_order.pdf to error directory
+2025-03-01 14:18:57,139 - PDFProcessor - INFO - Processing complete. 0 files processed successfully, 1 files had errors.
+2025-03-01 14:50:05,189 - PDFProcessor - INFO - Starting PDF processor
+2025-03-01 14:50:05,190 - PDFProcessor - INFO - No PDF files found in incoming directory
+2025-03-01 14:50:23,891 - PDFProcessor - INFO - Starting PDF processor
+2025-03-01 14:50:23,892 - PDFProcessor - INFO - Found 1 PDF files to process
+2025-03-01 14:50:23,892 - PDFProcessor - INFO - Extracting data from BOL_ 0834881732.PDF
+2025-03-01 14:50:23,941 - PDFProcessor - ERROR - Error processing BOL_ 0834881732.PDF: (sqlite3.OperationalError) no such table: orders
+[SQL: INSERT INTO orders (id, customer_id, customer_name, ship_from, ship_to, pickup_date, delivery_date, status, priority, weight_kg, volume_m3, special_requirements, notes, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('ORD-20250301205023', 'UNKNOWN', 'Unknown Customer', 'al Bill of  Lading or received subject to the Rules for', 'Canada', '2025-03-01 20:50:23.932577', None, 'pending', 'medium', 576.0, None, '{}', None, '2025-03-01 20:50:23.932717', '2025-03-01 20:50:23.932841')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-03-01 14:50:23,943 - PDFProcessor - WARNING - Moved BOL_ 0834881732.PDF to error directory
+2025-03-01 14:50:23,943 - PDFProcessor - INFO - Processing complete. 0 files processed successfully, 1 files had errors.

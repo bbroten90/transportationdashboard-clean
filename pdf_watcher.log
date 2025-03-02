@@ -1,0 +1,122 @@
+2025-03-01 14:14:43,957 - PDFWatcherService - INFO - Processing existing file: 143325484.pdf
+2025-03-01 14:14:43,958 - PDFWatcherService - INFO - Extracting data from 143325484.pdf
+2025-03-01 14:14:43,979 - PDFWatcherService - ERROR - Error processing 143325484.pdf: Unsupported filter: [/'FlateDecode']
+2025-03-01 14:14:43,980 - PDFWatcherService - WARNING - Moved 143325484.pdf to error directory
+2025-03-01 14:14:43,980 - PDFWatcherService - INFO - Processing existing file: 143777181 LAMONT.pdf
+2025-03-01 14:14:43,980 - PDFWatcherService - INFO - Extracting data from 143777181 LAMONT.pdf
+2025-03-01 14:14:43,995 - PDFWatcherService - ERROR - Error processing 143777181 LAMONT.pdf: Unsupported filter: [/'FlateDecode']
+2025-03-01 14:14:43,996 - PDFWatcherService - WARNING - Moved 143777181 LAMONT.pdf to error directory
+2025-03-01 14:14:43,996 - PDFWatcherService - INFO - Processing existing file: BASF Carrier Conf 6106947_0148976682 RICHARDSON -.pdf
+2025-03-01 14:14:43,996 - PDFWatcherService - INFO - Extracting data from BASF Carrier Conf 6106947_0148976682 RICHARDSON -.pdf
+2025-03-01 14:14:44,010 - PDFWatcherService - ERROR - Error processing BASF Carrier Conf 6106947_0148976682 RICHARDSON -.pdf: Unsupported filter: [/'FlateDecode']
+2025-03-01 14:14:44,010 - PDFWatcherService - WARNING - Moved BASF Carrier Conf 6106947_0148976682 RICHARDSON -.pdf to error directory
+2025-03-01 14:14:44,010 - PDFWatcherService - INFO - Processing existing file: BOL_ 0834881732.PDF
+2025-03-01 14:14:44,011 - PDFWatcherService - INFO - Extracting data from BOL_ 0834881732.PDF
+2025-03-01 14:14:44,023 - PDFWatcherService - ERROR - Error processing BOL_ 0834881732.PDF: Unsupported filter: [/'FlateDecode']
+2025-03-01 14:14:44,023 - PDFWatcherService - WARNING - Moved BOL_ 0834881732.PDF to error directory
+2025-03-01 14:14:44,023 - PDFWatcherService - INFO - Processing existing file: BOL_ 0834885609.PDF
+2025-03-01 14:14:44,023 - PDFWatcherService - INFO - Extracting data from BOL_ 0834885609.PDF
+2025-03-01 14:14:44,035 - PDFWatcherService - ERROR - Error processing BOL_ 0834885609.PDF: Unsupported filter: [/'FlateDecode']
+2025-03-01 14:14:44,035 - PDFWatcherService - WARNING - Moved BOL_ 0834885609.PDF to error directory
+2025-03-01 14:14:44,035 - PDFWatcherService - INFO - Processing existing file: CWS Picking Ticket Document.pdf
+2025-03-01 14:14:44,036 - PDFWatcherService - INFO - Extracting data from CWS Picking Ticket Document.pdf
+2025-03-01 14:14:44,137 - PDFWatcherService - WARNING - Missing required field: ship_from
+2025-03-01 14:14:44,138 - PDFWatcherService - WARNING - Invalid order data extracted from CWS Picking Ticket Document.pdf
+2025-03-01 14:14:44,138 - PDFWatcherService - WARNING - Moved CWS Picking Ticket Document.pdf to error directory
+2025-03-01 14:14:44,139 - PDFWatcherService - INFO - Processing existing file: FNDWRR.pdf
+2025-03-01 14:14:44,139 - PDFWatcherService - INFO - Extracting data from FNDWRR.pdf
+2025-03-01 14:14:44,211 - PDFWatcherService - WARNING - Missing required field: ship_from
+2025-03-01 14:14:44,211 - PDFWatcherService - WARNING - Invalid order data extracted from FNDWRR.pdf
+2025-03-01 14:14:44,212 - PDFWatcherService - WARNING - Moved FNDWRR.pdf to error directory
+2025-03-01 14:14:44,212 - PDFWatcherService - INFO - Processing existing file: GC1487243 CWS Winnipeg to Winkler.pdf
+2025-03-01 14:14:44,212 - PDFWatcherService - INFO - Extracting data from GC1487243 CWS Winnipeg to Winkler.pdf
+2025-03-01 14:14:44,510 - PDFWatcherService - INFO - Processing existing file: GC1487243 CWS Winnipeg to Winkler.pdf
+2025-03-01 14:14:44,510 - PDFWatcherService - INFO - Extracting data from GC1487243 CWS Winnipeg to Winkler.pdf
+2025-03-01 14:14:44,696 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 14:14:44,820 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 14:14:44,867 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 14:14:44,913 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 14:14:45,317 - PDFWatcherService - INFO - Processing existing file: GC1487243 CWS Winnipeg to Winkler.pdf
+2025-03-01 14:14:45,317 - PDFWatcherService - INFO - Extracting data from GC1487243 CWS Winnipeg to Winkler.pdf
+2025-03-01 14:14:45,415 - PDFWatcherService - WARNING - Missing required field: ship_from
+2025-03-01 14:14:45,415 - PDFWatcherService - WARNING - Invalid order data extracted from GC1487243 CWS Winnipeg to Winkler.pdf
+2025-03-01 14:14:45,419 - PDFWatcherService - ERROR - Error processing GC1487243 CWS Winnipeg to Winkler.pdf: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\transportationdashboard\\server\\data\\incoming_pdfs\\GC1487243 CWS Winnipeg to Winkler.pdf'
+2025-03-01 14:14:45,421 - PDFWatcherService - ERROR - Error moving GC1487243 CWS Winnipeg to Winkler.pdf to error directory: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\transportationdashboard\\server\\data\\incoming_pdfs\\GC1487243 CWS Winnipeg to Winkler.pdf'
+2025-03-01 14:14:45,421 - PDFWatcherService - INFO - Processing existing file: Pick list809877104.PDF
+2025-03-01 14:14:45,422 - PDFWatcherService - INFO - Extracting data from Pick list809877104.PDF
+2025-03-01 14:14:45,428 - PDFWatcherService - ERROR - Error processing Pick list809877104.PDF: Unsupported filter: [/'FlateDecode']
+2025-03-01 14:14:45,429 - PDFWatcherService - WARNING - Moved Pick list809877104.PDF to error directory
+2025-03-01 14:14:45,492 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 14:14:45,497 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 14:14:45,602 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 14:14:45,608 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 14:14:45,646 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 14:14:45,661 - PDFWatcherService - WARNING - Missing required field: ship_from
+2025-03-01 14:14:45,661 - PDFWatcherService - WARNING - Invalid order data extracted from GC1487243 CWS Winnipeg to Winkler.pdf
+2025-03-01 14:14:45,664 - PDFWatcherService - ERROR - Error processing GC1487243 CWS Winnipeg to Winkler.pdf: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\transportationdashboard\\server\\data\\incoming_pdfs\\GC1487243 CWS Winnipeg to Winkler.pdf'
+2025-03-01 14:14:45,666 - PDFWatcherService - ERROR - Error moving GC1487243 CWS Winnipeg to Winkler.pdf to error directory: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\transportationdashboard\\server\\data\\incoming_pdfs\\GC1487243 CWS Winnipeg to Winkler.pdf'
+2025-03-01 14:14:45,666 - PDFWatcherService - INFO - Processing existing file: Pick list809877104.PDF
+2025-03-01 14:14:45,666 - PDFWatcherService - INFO - Extracting data from Pick list809877104.PDF
+2025-03-01 14:14:45,666 - PDFWatcherService - ERROR - Error processing Pick list809877104.PDF: [Errno 2] No such file or directory: 'C:\\transportationdashboard\\server\\data\\incoming_pdfs\\Pick list809877104.PDF'
+2025-03-01 14:14:45,667 - PDFWatcherService - ERROR - Error moving Pick list809877104.PDF to error directory: [WinError 2] The system cannot find the file specified
+2025-03-01 14:14:45,816 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 14:14:46,421 - PDFWatcherService - WARNING - Missing required field: ship_from
+2025-03-01 14:14:46,421 - PDFWatcherService - WARNING - Invalid order data extracted from GC1487243 CWS Winnipeg to Winkler.pdf
+2025-03-01 14:14:46,424 - PDFWatcherService - WARNING - Moved GC1487243 CWS Winnipeg to Winkler.pdf to error directory
+2025-03-01 14:14:46,424 - PDFWatcherService - INFO - Processing existing file: Pick list809877104.PDF
+2025-03-01 14:14:46,424 - PDFWatcherService - INFO - Extracting data from Pick list809877104.PDF
+2025-03-01 14:14:46,425 - PDFWatcherService - ERROR - Error processing Pick list809877104.PDF: [Errno 2] No such file or directory: 'C:\\transportationdashboard\\server\\data\\incoming_pdfs\\Pick list809877104.PDF'
+2025-03-01 14:14:46,425 - PDFWatcherService - ERROR - Error moving Pick list809877104.PDF to error directory: [WinError 2] The system cannot find the file specified
+2025-03-01 14:15:18,750 - PDFWatcherStarter - INFO - Starting PDF watcher service...
+2025-03-01 14:15:18,751 - PDFWatcherService - INFO - Starting PDF watcher service
+2025-03-01 14:15:18,751 - PDFWatcherService - INFO - Watching directory: C:\transportationdashboard\server\data\incoming_pdfs
+2025-03-01 14:15:18,752 - PDFWatcherService - INFO - PDF watcher service started
+2025-03-01 14:17:23,589 - PDFWatcherService - INFO - New PDF detected: C:\transportationdashboard\server\data\incoming_pdfs\new_order.pdf
+2025-03-01 14:17:23,589 - PDFWatcherService - INFO - Extracting data from new_order.pdf
+2025-03-01 14:17:23,589 - PDFWatcherService - ERROR - Error processing new_order.pdf: [Errno 13] Permission denied: 'C:\\transportationdashboard\\server\\data\\incoming_pdfs\\new_order.pdf'
+2025-03-01 14:17:23,590 - PDFWatcherService - ERROR - Error moving new_order.pdf to error directory: [WinError 32] The process cannot access the file because it is being used by another process
+2025-03-01 14:19:37,502 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 14:19:37,557 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 14:19:44,270 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 14:19:44,332 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 14:19:46,387 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 14:19:46,446 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 14:21:56,997 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 14:21:57,054 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 16:42:00,196 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 16:42:00,254 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 16:51:45,426 - PDFWatcherService - INFO - Stopping PDF watcher service
+2025-03-01 17:52:28,331 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 17:52:28,397 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 17:58:43,180 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 17:58:43,236 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 18:01:35,185 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 18:05:48,438 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 18:05:48,505 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 18:06:02,236 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 18:06:02,306 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 18:06:17,748 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 18:06:17,810 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 18:07:18,386 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 18:07:18,443 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 18:12:34,570 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 18:12:34,625 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 18:13:04,018 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 18:13:04,387 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 18:13:31,128 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 18:13:31,227 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 18:14:24,954 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 18:14:25,327 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 19:03:00,280 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 19:03:00,335 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 19:03:10,119 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 19:03:10,231 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 19:03:10,868 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 19:03:11,230 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 22:43:46,054 - PDFWatcherService - INFO - Stopping PDF watcher service
+2025-03-01 22:43:56,035 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 22:43:56,398 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 22:43:57,429 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 22:43:57,685 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 23:03:59,166 - httpx - INFO - HTTP Request: GET https://api.samsara.com/v1/fleet/vehicles?vehicleStatus=available&types=truck "HTTP/1.1 404 Not Found"
+2025-03-01 23:03:59,190 - PDFWatcherService - INFO - Stopping PDF watcher service

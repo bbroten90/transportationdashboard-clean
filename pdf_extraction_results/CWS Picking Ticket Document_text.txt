@@ -1,0 +1,249 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Item 
+Number 
+Item Description 
+UOM 
+Quantity 
+Extended 
+Weight 
+Temp 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Special Shipping Instructions 
+ 
+ 
+Page number: 
+ 
+Order Date: 
+ 
+FCL Invoice Number: 
+ 
+Ship To:  
+  
+ 
+ 
+ 
+ 
+ 
+Ship From: 
+Temperature Codes 
+B – Temp +0 to +20C 
+H – Heat 
+C – Cold 
+R – No Temp Control 
+F – Freeze 
+S – Temp +13 to +15C 
+Picking Ticket Document 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                            1/1
+  2300-16-014
+  PEMBINA CONSUMERS CO-OP (2000) LTD                                        27 Feb 2025
+  SWAN LAKE AGRO
+  57154 ROAD 28N AT ROAD 58W                                                3964303
+  SWAN LAKE, MB  R0G 2S0
+  CPI #: 340375                                                 Confirm No: 897298
+ 
+ 
+ 
+ 
+ 
+ 
+  FEDERATED CO-OPERATIVES LIMITED
+  250 HENDERSON DRIVE
+  C/O CWS LOGISTICS LIMITED                              DELIVER ASAP
+  REGINA SK, 24N5P7                                      SHIPPED FROM REGINA
+                                                         LK
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  3201456  FREEDOM 540 1000 L                    TOTE                    15    47,288 lbs   R
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                               47,288 lbs
+ 
+ 

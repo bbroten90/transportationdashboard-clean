@@ -1,0 +1,26 @@
+{
+  "id": "143777181",
+  "customer_id": "1024285",
+  "customer_name": "RICHARDSON INTERNATIONAL LTD\nOcean BOL",
+  "ship_from": "Weight",
+  "ship_to": "Point",
+  "pickup_date": null,
+  "weight_kg": 311,
+  "weight_lbs": 5094,
+  "special_requirements": {},
+  "notes": null,
+  "manufacturer": "BASF",
+  "ship_from_location": "CWS Edmonton",
+  "ship_to_city": "LAMONT, AB",
+  "ship_to_company": "Richardson International",
+  "purchase_order": "276344",
+  "gross_weight_kg": 2543,
+  "gross_weight_lbs": 5606,
+  "net_quantity": "135",
+  "confidence_scores": {
+    "ship_from_location": 0.5
+  },
+  "needs_review": {
+    "ship_from_location": true
+  }
+}

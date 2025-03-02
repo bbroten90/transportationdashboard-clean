@@ -1,0 +1,196 @@
+PDF EXTRACTION SUMMARY
+=====================
+
+Generated on: 2025-03-01 21:11:24
+
+Total PDFs processed: 10
+
+
+--------------------------------------------------------------------------------
+File: 143325484.pdf
+Size: 11.06 KB
+Text extracted: 3974 characters
+
+Current extraction results:
+  id: 
+  customer_id: 
+  customer_name: 
+  ship_from: Weight
+  ship_to: Point
+  pickup_date: None
+  weight_kg: 62.0
+  special_requirements: {}
+  notes: None
+
+All required fields present.
+
+--------------------------------------------------------------------------------
+File: 143777181 LAMONT.pdf
+Size: 10.95 KB
+Text extracted: 3829 characters
+
+Current extraction results:
+  id: 
+  customer_id: 
+  customer_name: 
+  ship_from: Weight
+  ship_to: Point
+  pickup_date: None
+  weight_kg: 310.795
+  special_requirements: {}
+  notes: None
+
+All required fields present.
+
+--------------------------------------------------------------------------------
+File: BASF Carrier Conf 6106947_0148976682 RICHARDSON -.pdf
+Size: 26.49 KB
+Text extracted: 1982 characters
+
+Current extraction results:
+  id: 
+  customer_id: 
+  customer_name: 
+  ship_from: 04513-04
+               26
+PCA
+               26
+EA
+  ship_to: Date
+  pickup_date: None
+  weight_kg: 102.0
+  special_requirements: {}
+  notes: None
+
+All required fields present.
+
+--------------------------------------------------------------------------------
+File: BOL_ 0834881732.PDF
+Size: 16.23 KB
+Text extracted: 12633 characters
+
+Current extraction results:
+  id: 
+  customer_id: 
+  customer_name: 
+  ship_from: al Bill of  Lading or received subject to the Rules for
+  ship_to: Canada
+  pickup_date: None
+  weight_kg: 576.0
+  special_requirements: {}
+  notes: None
+
+All required fields present.
+
+--------------------------------------------------------------------------------
+File: BOL_ 0834885609.PDF
+Size: 26.43 KB
+Text extracted: 23802 characters
+
+Current extraction results:
+  id: 
+  customer_id: 
+  customer_name: 
+  ship_from: al Bill of  Lading or received subject to the Rules for
+  ship_to: Canada
+  pickup_date: None
+  weight_kg: 816.0
+  special_requirements: {}
+  notes: None
+
+All required fields present.
+
+--------------------------------------------------------------------------------
+File: BOL_ 0834889321.PDF
+Size: 16.23 KB
+Text extracted: 12575 characters
+
+Current extraction results:
+  id: 
+  customer_id: 
+  customer_name: 
+  ship_from: al Bill of  Lading or received subject to the Rules for
+  ship_to: Canada
+  pickup_date: None
+  weight_kg: 440.0
+  special_requirements: {}
+  notes: None
+
+All required fields present.
+
+--------------------------------------------------------------------------------
+File: CWS Picking Ticket Document.pdf
+Size: 242.14 KB
+Text extracted: 1586 characters
+
+Current extraction results:
+  id: 
+  customer_id: 
+  customer_name: 
+  ship_from: Temperature Codes
+  ship_to: 
+  pickup_date: None
+  weight_kg: 130.634496
+  special_requirements: {}
+  notes: None
+
+Missing required fields:
+  - ship_to
+
+--------------------------------------------------------------------------------
+File: FNDWRR.pdf
+Size: 15.84 KB
+Text extracted: 1299 characters
+
+Current extraction results:
+  id: Trip
+  customer_id: 
+  customer_name: 
+  ship_from: stination, Freight Prepaid
+Internal Sales Order No
+  ship_to: 818806
+  pickup_date: None
+  weight_kg: 4245.12
+  special_requirements: {}
+  notes: None
+
+All required fields present.
+
+--------------------------------------------------------------------------------
+File: GC1487243 CWS Winnipeg to Winkler.pdf
+Size: 224.56 KB
+Text extracted: 0 characters
+
+Current extraction results:
+  id: 
+  customer_id: 
+  customer_name: 
+  ship_from: 
+  ship_to: 
+  pickup_date: None
+  weight_kg: 0.0
+  special_requirements: {}
+  notes: None
+
+Missing required fields:
+  - ship_from
+  - ship_to
+  - weight_kg
+
+--------------------------------------------------------------------------------
+File: Pick list809877104.PDF
+Size: 7.33 KB
+Text extracted: 1662 characters
+
+Current extraction results:
+  id: 
+  customer_id: 
+  customer_name: 
+  ship_from: stination
+  ship_to: tal
+  pickup_date: None
+  weight_kg: 584.0
+  special_requirements: {}
+  notes: None
+
+All required fields present.

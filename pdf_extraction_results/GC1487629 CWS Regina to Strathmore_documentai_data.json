@@ -1,0 +1,38 @@
+{
+  "id": "GC1487629",
+  "customer_id": "03300",
+  "customer_name": "",
+  "ship_from": "421908\nCWS\nGowan Agro Canada c/o CWS\n250 Henderson Dr\nRegina SK S4N 5P7\nCanada\n(306) 533-2702",
+  "ship_to": "358660\nCargill Limited\nCore Ag (2068481 Alberta Inc)\n409 Canal Blvd\nAWSA# 326319\nStrathmore AB T1P 0C4\n(403) 992-8965",
+  "pickup_date": "2025-02-28T00:00:00",
+  "weight_kg": 0,
+  "weight_lbs": 0,
+  "special_requirements": {},
+  "notes": "",
+  "manufacturer": "Gowan",
+  "ship_from_location": "CWS Winnipeg",
+  "ship_to_city": "",
+  "ship_to_company": "",
+  "purchase_order": "",
+  "gross_weight_kg": 3851,
+  "gross_weight_lbs": 8490,
+  "net_quantity": "",
+  "confidence_scores": {
+    "ship_from_location": 0.5,
+    "ship_from": 0.0,
+    "ship_to": 0.0,
+    "id": 0.0,
+    "customer_id": 0.0,
+    "pickup_date": 0.0,
+    "gross_weight_lbs": 0.0
+  },
+  "needs_review": {
+    "ship_from_location": true,
+    "ship_from": true,
+    "ship_to": true,
+    "id": true,
+    "customer_id": true,
+    "pickup_date": true,
+    "gross_weight_lbs": true
+  }
+}

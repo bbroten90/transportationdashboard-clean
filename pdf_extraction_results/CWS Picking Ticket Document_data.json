@@ -1,0 +1,26 @@
+{
+  "id": "PT-2023-001",
+  "customer_id": "CWS-INT",
+  "customer_name": "CWS Internal Transfer",
+  "ship_from": "CWS Edmonton",
+  "ship_to": "CWS Winnipeg",
+  "pickup_date": "2025-03-01T21:12:11.047929",
+  "weight_kg": 850.0,
+  "weight_lbs": 1874.0,
+  "special_requirements": {
+    "requires_refrigeration": false,
+    "requires_heating": false,
+    "fragile": true,
+    "hazardous_materials": true,
+    "rush_delivery": true
+  },
+  "notes": "Internal transfer of agricultural chemicals. Handle with care. Priority shipment.",
+  "manufacturer": "CWS",
+  "ship_from_location": "CWS Edmonton",
+  "ship_to_city": "Winnipeg, MB",
+  "ship_to_company": "CWS Logistics",
+  "purchase_order": "INT-2023-001",
+  "gross_weight_kg": 850.0,
+  "gross_weight_lbs": 1874.0,
+  "net_quantity": "24"
+}

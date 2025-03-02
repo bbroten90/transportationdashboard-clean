@@ -1,0 +1,26 @@
+{
+  "id": "",
+  "customer_id": "",
+  "customer_name": "",
+  "ship_from": "04513-04\n               26\nPCA\n               26\nEA",
+  "ship_to": "Date",
+  "pickup_date": null,
+  "weight_kg": 102,
+  "weight_lbs": 24476,
+  "special_requirements": {},
+  "notes": null,
+  "manufacturer": "BASF",
+  "ship_from_location": "CWS Edmonton",
+  "ship_to_city": "",
+  "ship_to_company": "Richardson International",
+  "purchase_order": "",
+  "gross_weight_kg": 11102,
+  "gross_weight_lbs": 24476,
+  "net_quantity": "",
+  "confidence_scores": {
+    "ship_from_location": 0.5
+  },
+  "needs_review": {
+    "ship_from_location": true
+  }
+}

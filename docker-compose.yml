@@ -1,0 +1,57 @@
+version: '3.8'
+
+services:
+  # Backend API service
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile.backend
+    ports:
+      - "8000:8000"
+    environment:
+      - ENVIRONMENT=development
+      - DATABASE_URL=postgresql://postgres:postgres@db:5432/transportation
+      - SAMSARA_API_KEY=${SAMSARA_API_KEY:-your_samsara_api_key_here}
+      - GOOGLE_MAPS_API_KEY=${GOOGLE_MAPS_API_KEY:-}
+      - WEATHER_API_KEY=${WEATHER_API_KEY:-placeholder_for_weather_api_key}
+      - MAX_OPTIMIZATION_TIME=30
+      - REVENUE_WEIGHT=0.5
+      - COST_WEIGHT=0.3
+      - TIME_WEIGHT=0.2
+    volumes:
+      - ./server:/app/server
+      - ./rate_sheets:/app/rate_sheets
+      - ./SampleOrders:/app/SampleOrders
+      - ./pdf_extraction_results:/app/pdf_extraction_results
+    depends_on:
+      - db
+    restart: unless-stopped
+
+  # Frontend service
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile.frontend
+    ports:
+      - "80:80"
+    volumes:
+      - ./nginx.conf:/etc/nginx/conf.d/default.conf
+    depends_on:
+      - backend
+    restart: unless-stopped
+
+  # Database service
+  db:
+    image: postgres:15-alpine
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_DB=transportation
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    restart: unless-stopped
+
+volumes:
+  postgres_data:

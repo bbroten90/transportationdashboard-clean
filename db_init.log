@@ -1,0 +1,18 @@
+2025-03-01 23:01:06,751 - DBInit - INFO - Creating database transportation if it doesn't exist...
+2025-03-01 23:01:06,801 - DBInit - ERROR - Error creating database: connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+2025-03-01 23:01:06,801 - DBInit - ERROR - Database setup failed: cannot access local variable 'cursor' where it is not associated with a value
+2025-03-01 23:01:25,188 - DBInit - INFO - Initializing database...
+2025-03-01 23:01:46,244 - DBInit - ERROR - Error initializing database: connection to server at "34.60.46.45", port 5432 failed: Connection timed out (0x0000274C/10060)
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-03-01 23:01:46,244 - DBInit - ERROR - Database setup failed: cannot access local variable 'cursor' where it is not associated with a value
+2025-03-01 23:26:25,822 - DBInit - INFO - Initializing database...
+2025-03-01 23:26:26,253 - DBInit - INFO - Database initialized successfully
+2025-03-01 23:26:26,254 - DBInit - INFO - Database setup complete
+2025-03-01 23:27:45,135 - DBInit - INFO - Initializing database...
+2025-03-01 23:27:45,557 - DBInit - INFO - Database initialized successfully
+2025-03-01 23:27:45,558 - DBInit - INFO - Database setup complete
+2025-03-01 23:28:46,227 - DBInit - INFO - Initializing database...
+2025-03-01 23:28:46,641 - DBInit - INFO - Database initialized successfully
+2025-03-01 23:28:46,642 - DBInit - INFO - Database setup complete

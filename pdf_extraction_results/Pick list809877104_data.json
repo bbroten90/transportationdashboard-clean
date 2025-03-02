@@ -1,0 +1,11 @@
+{
+  "id": "",
+  "customer_id": "",
+  "customer_name": "",
+  "ship_from": "stination",
+  "ship_to": "tal",
+  "pickup_date": null,
+  "weight_kg": 584.0,
+  "special_requirements": {},
+  "notes": null
+}

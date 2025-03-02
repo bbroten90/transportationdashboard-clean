@@ -1,0 +1,20 @@
+{
+  "id": "GC1487243",
+  "customer_id": "",
+  "customer_name": "Winfield United Canada",
+  "ship_from": "CWS Logistics Winnipeg",
+  "ship_to": "Winkler, MB",
+  "pickup_date": null,
+  "weight_kg": 1250.0,
+  "weight_lbs": 2756.25,
+  "special_requirements": {},
+  "notes": null,
+  "manufacturer": "Gowan",
+  "ship_from_location": "CWS Winnipeg",
+  "ship_to_city": "Winkler, MB",
+  "ship_to_company": "Winfield United Canada",
+  "purchase_order": "GC1487243",
+  "gross_weight_kg": 1250.0,
+  "gross_weight_lbs": 2756.25,
+  "net_quantity": "50"
+}

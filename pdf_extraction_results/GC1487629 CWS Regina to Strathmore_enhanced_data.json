@@ -1,0 +1,26 @@
+{
+  "id": "",
+  "customer_id": "",
+  "customer_name": "",
+  "ship_from": "",
+  "ship_to": "",
+  "pickup_date": null,
+  "weight_kg": 0.0,
+  "weight_lbs": 0.0,
+  "special_requirements": {},
+  "notes": null,
+  "manufacturer": "",
+  "ship_from_location": "CWS Regina",
+  "ship_to_city": "Strathmore, AB",
+  "ship_to_company": "Winfield United Canada",
+  "purchase_order": "",
+  "gross_weight_kg": 0.0,
+  "gross_weight_lbs": 0.0,
+  "net_quantity": "",
+  "confidence_scores": {
+    "ship_from_location": 0.0
+  },
+  "needs_review": {
+    "ship_from_location": true
+  }
+}

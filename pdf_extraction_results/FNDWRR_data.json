@@ -1,0 +1,26 @@
+{
+  "id": "Trip",
+  "customer_id": "",
+  "customer_name": "",
+  "ship_from": "stination, Freight Prepaid\nInternal Sales Order No",
+  "ship_to": "818806",
+  "pickup_date": null,
+  "weight_kg": 4245,
+  "weight_lbs": 9359,
+  "special_requirements": {},
+  "notes": "Warehouse to call before shipping",
+  "manufacturer": "Nufarm",
+  "ship_from_location": "CWS Edmonton",
+  "ship_to_city": "Edmonton, AB",
+  "ship_to_company": "Acropolis Warehousing",
+  "purchase_order": "18089",
+  "gross_weight_kg": 4245,
+  "gross_weight_lbs": 9359,
+  "net_quantity": "1",
+  "confidence_scores": {
+    "ship_from_location": 0.5
+  },
+  "needs_review": {
+    "ship_from_location": true
+  }
+}
